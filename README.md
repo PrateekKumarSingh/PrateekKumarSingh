@@ -1,8 +1,6 @@
 
-## Heylo, I'm <a href="https://www.linkedin.com/in/prateeksingh1590/detail/" target="_blank">Prateek</a>!
+## Heylo, I'm <a href="https://www.linkedin.com/in/prateeksingh1590/detail/" target="_blank">Prateek</a>! 👋
 <br />
-<br />
-
 [![HitCount](http://hits.dwyl.com/PrateekKumarSingh/PrateekKumarSingh.svg)](http://hits.dwyl.com/PrateekKumarSingh/PrateekKumarSingh)
 ---
 
