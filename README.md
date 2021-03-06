@@ -10,9 +10,6 @@
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/PrateekKumarSingh/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.PrateekKumarSingh.vercel.app/api/top-langs/?username=PrateekKumarSingh" />
-  </a>
   <p>
     <img src="https://views.whatilearened.today/views/github/PrateekKumarSingh/views.svg"/>
     <a href="https://github.com/PrateekKumarSingh/"><img src="https://img.shields.io/github/followers/PrateekKumarSingh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
