@@ -16,5 +16,7 @@
 
 <p align="center">
 <img width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  
+<a href="https://www.buymeacoffee.com/prateeksingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 <br/><br/>
