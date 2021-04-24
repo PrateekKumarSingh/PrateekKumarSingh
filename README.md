@@ -12,7 +12,7 @@
   
 <br>
 
-<img width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
 
 [![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekKumarSingh)](https://github.com/PrateekKumarSingh)
