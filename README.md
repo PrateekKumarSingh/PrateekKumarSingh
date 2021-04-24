@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+  
 [![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekKumarSingh)](https://github.com/PrateekKumarSingh)
 
 [![Prateek's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumarSingh&theme=light&hide_border=true")](https://github.com/PrateekKumarSingh)
