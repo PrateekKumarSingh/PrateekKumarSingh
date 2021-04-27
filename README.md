@@ -19,6 +19,7 @@
 
 ## My Books
 
-<img src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="200"/>
-
-[![Windows Subsystem for Linux](https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1)](https://www.apress.com/gp/book/9781484260371) [![PowerShell to C# and back!](https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848)](https://leanpub.com/powershell-to-csharp) [![PowerShell Guide to Python](https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003)](https://leanpub.com/PowerShell-to-Python) [![Learn C# in 30 mins](https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238)](https://leanpub.com/learncsharp)
+<a href="https://www.apress.com/gp/book/9781484260371"><img src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="200"/></a>
+<a href="https://leanpub.com/powershell-to-csharp"><img src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="200"/></a>
+<a href="https://leanpub.com/PowerShell-to-Python"><img src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="200"/></a>
+<a href="https://leanpub.com/learncsharp"><img src="https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238" width="200"/></a>
