@@ -12,7 +12,7 @@
 * 200x Blog posts written on my blog 👉 <a href="ridicurious.com">ridicurious.com</a> 
 
 <br />
-<img src="https://views.whatilearened.today/views/github/PrateekKumarSingh/views.svg"/>  <a href="https://github.com/PrateekKumarSingh/"><img src="https://img.shields.io/github/followers/PrateekKumarSingh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>  <a href="https://github.com/PrateekKumarSingh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<img src="https://views.whatilearened.today/views/github/PrateekKumarSingh/views.svg"/><a href="https://github.com/PrateekKumarSingh/"><img src="https://img.shields.io/github/followers/PrateekKumarSingh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a><a href="https://github.com/PrateekKumarSingh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
@@ -25,14 +25,14 @@
 ## Blog Posts
 * <a href="https://ridicurious.com/2021/04/08/automated-azure-infrastructure-diagrams-with-powershell/">Automated Azure Infrastructure Diagrams with PowerShell</a>
 * <a href="https://ridicurious.com/2020/01/23/deep-dive-break-continue-return-exit-in-powershell/">Deep Dive: Break, Continue, Return, Exit in PowerShell</a>
-* <a href="https://ridicurious.com/2019/10/04/11-ways-to-create-hashtable-in-powershell/">11 Ways to Create HashTable in PowerShell</a>
 * <a href="https://ridicurious.com/2019/10/10/powershell-loops-and-iterations/">Deep Dive: PowerShell Loops and Iterations</a>
-* <a href="https://ridicurious.com/2018/11/14/4-ways-to-validate-ipaddress-in-powershell/">4 Ways to Validate IP Address in PowerShell</a>
-* <a href="https://ridicurious.com/2018/10/17/4-ways-to-find-os-architecture-using-powershell-32-or-64-bit/">4 Ways to Find OS Architecture using PowerShell (32 or 64 bit) </a>
 * <a href="https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/">PowerShell Scripting guide to Python</a>
 * <a href="https://ridicurious.com/2018/04/13/unique-items-in-powershell/">5 ways to select Unique items in PowerShell</a>
 * <a href="https://ridicurious.com/2018/10/18/2-ways-to-copy-files-from-windows-10-to-windows-sub-system-for-linux/">2 Ways to Copy Files from Windows 10 to Windows Sub-System for Linux</a>
+* <a href="https://ridicurious.com/2019/10/04/11-ways-to-create-hashtable-in-powershell/">11 Ways to Create HashTable in PowerShell</a>
 * <a href="https://ridicurious.com/2018/10/15/4-ways-to-create-powershell-objects/">4 Ways to Create PowerShell Objects</a>
+* <a href="https://ridicurious.com/2018/11/14/4-ways-to-validate-ipaddress-in-powershell/">4 Ways to Validate IP Address in PowerShell</a>
+* <a href="https://ridicurious.com/2018/10/17/4-ways-to-find-os-architecture-using-powershell-32-or-64-bit/">4 Ways to Find OS Architecture using PowerShell (32 or 64 bit) </a>
 * <a href="https://ridicurious.com/2018/04/13/unique-items-in-powershell/">5 ways to select Unique items in PowerShell</a>
 
 ## Books
