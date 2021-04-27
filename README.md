@@ -14,6 +14,8 @@
 * 50x Articles written on multiple platforms such as <a href="4SysOps.com">4sysops.com</a>, <a href="IPSwitch.com">ipswitch.com</a>, and <a href="TechTarget.com">techtarget.com</a> 
 * 200x Blog posts written on my blog 👉 <a href="ridicurious.com">ridicurious.com</a> 
 
+<img src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+
 <!---
 [![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekKumarSingh)](https://github.com/PrateekKumarSingh)
 [![Prateek's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumarSingh&theme=light&hide_border=true")](https://github.com/PrateekKumarSingh)
