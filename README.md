@@ -22,8 +22,20 @@
 <br/><br/>
 --->
 
+## Blog Posts
+* <a href="https://ridicurious.com/2021/04/08/automated-azure-infrastructure-diagrams-with-powershell/">Automated Azure Infrastructure Diagrams with PowerShell</a>
+* <a href="https://ridicurious.com/2020/01/23/deep-dive-break-continue-return-exit-in-powershell/">Deep Dive: Break, Continue, Return, Exit in PowerShell</a>
+* <a href="https://ridicurious.com/2019/10/04/11-ways-to-create-hashtable-in-powershell/">11 Ways to Create HashTable in PowerShell</a>
+* <a href="https://ridicurious.com/2019/10/10/powershell-loops-and-iterations/">Deep Dive: PowerShell Loops and Iterations</a>
+* <a href="https://ridicurious.com/2018/11/14/4-ways-to-validate-ipaddress-in-powershell/">4 Ways to Validate IP Address in PowerShell</a>
+* <a href="https://ridicurious.com/2018/10/17/4-ways-to-find-os-architecture-using-powershell-32-or-64-bit/">4 Ways to Find OS Architecture using PowerShell (32 or 64 bit) </a>
+* <a href="https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/">PowerShell Scripting guide to Python</a>
+* <a href="https://ridicurious.com/2018/04/13/unique-items-in-powershell/">5 ways to select Unique items in PowerShell</a>
+* <a href="https://ridicurious.com/2018/10/18/2-ways-to-copy-files-from-windows-10-to-windows-sub-system-for-linux/">2 Ways to Copy Files from Windows 10 to Windows Sub-System for Linux</a>
+* <a href="https://ridicurious.com/2018/10/15/4-ways-to-create-powershell-objects/">4 Ways to Create PowerShell Objects</a>
+* <a href="https://ridicurious.com/2018/04/13/unique-items-in-powershell/">5 ways to select Unique items in PowerShell</a>
 
-## My Books
+## Books
 
 <kbd><a href="https://www.apress.com/gp/book/9781484260371"><img border="1" src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="220"/></a></kbd>
 <kbd><a href="https://leanpub.com/powershell-to-csharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="200"/></a></kbd>
