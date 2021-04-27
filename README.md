@@ -19,7 +19,7 @@
 
 ## My Books
 
-<a href="https://www.apress.com/gp/book/9781484260371"><img border="1" src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="220"/></a>
+<kbd><a href="https://www.apress.com/gp/book/9781484260371"><img border="1" src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="220"/></a></kbd>
 <kbd><a href="https://leanpub.com/powershell-to-csharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="200"/></a></kbd>
-<a href="https://leanpub.com/PowerShell-to-Python"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="200"/></a>
-<a href="https://leanpub.com/learncsharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238" width="200"/></a>
+<kbd><a href="https://leanpub.com/PowerShell-to-Python"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="200"/></a></kbd>
+<kbd><a href="https://leanpub.com/learncsharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238" width="200"/></a></kbd>
