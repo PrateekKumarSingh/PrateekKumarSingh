@@ -16,3 +16,12 @@
 [![Prateek's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumarSingh&theme=light&hide_border=true")](https://github.com/PrateekKumarSingh)
 
 <br/><br/>
+
+## My Books
+[![Windows Subsystem for Linux](https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1)](https://www.apress.com/gp/book/9781484260371)
+&nbsp;&nbsp;&nbsp;
+[![PowerShell to C# and back!](https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848)](https://leanpub.com/powershell-to-csharp)
+&nbsp;&nbsp;&nbsp;
+[![PowerShell Guide to Python](https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003)](https://leanpub.com/PowerShell-to-Python)
+&nbsp;&nbsp;&nbsp;
+[![Learn C# in 30 mins](https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238)](https://leanpub.com/learncsharp)
