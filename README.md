@@ -8,7 +8,7 @@
 ## WhoAmI
 * 1x Enginner who ♥ to automate cloud 🌩 infrastructure and is passionate about learning!
 * 4x Author, published some books on topic: <code>PowerShell</code>, <code>Python</code>, <code>C#</code>, <code>Windows Subsystem for Linux</code>
-* 50X Aricles written on multiple platforms such as <a href="4SysOps.com">4sysops.com</a>, <a href="IPSwitch.com">ipswitch.com</a>, and <a href="TechTarget.com">techtarget.com</a> 
+* 50x Aricles written on multiple platforms such as <a href="4SysOps.com">4sysops.com</a>, <a href="IPSwitch.com">ipswitch.com</a>, and <a href="TechTarget.com">techtarget.com</a> 
 * 200x Blog posts written on my blog 👉 <a href="ridicurious.com">ridicurious.com</a> 
 
 <br />
