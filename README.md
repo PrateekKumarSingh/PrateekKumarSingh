@@ -1,13 +1,11 @@
 
 # Heylo, I'm <a href="https://www.linkedin.com/in/prateeksingh1590/detail/" target="_blank">Prateek</a>! 👋
 <br />
-<a href= "https://www.linkedin.com/in/prateeksingh1590/detail/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+<img src="https://views.whatilearened.today/views/github/PrateekKumarSingh/views.svg"/>  <a href="https://github.com/PrateekKumarSingh/"><img src="https://img.shields.io/github/followers/PrateekKumarSingh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>  <a href="https://github.com/PrateekKumarSingh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a><a href= "https://www.linkedin.com/in/prateeksingh1590/detail/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/singhprateik"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
 <a href= "https://www.youtube.com/c/ridiculouslycurious"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 
 ## Bio
-
-<img src="https://views.whatilearened.today/views/github/PrateekKumarSingh/views.svg"/>  <a href="https://github.com/PrateekKumarSingh/"><img src="https://img.shields.io/github/followers/PrateekKumarSingh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>  <a href="https://github.com/PrateekKumarSingh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 
 * 1x Enginner who ♥ to automate cloud 🌩 infrastructure and is passionate about learning!
 * 4x Author, published some books on topic: <code>PowerShell</code>, <code>Python</code>, <code>C#</code>, <code>Windows Subsystem for Linux</code>
@@ -23,10 +21,10 @@
 
 ## Books
 
-<kbd><a href="https://www.apress.com/gp/book/9781484260371"><img border="1" src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="110"/></a></kbd>
-<kbd><a href="https://leanpub.com/powershell-to-csharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="100"/></a></kbd>
-<kbd><a href="https://leanpub.com/PowerShell-to-Python"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="100"/></a></kbd>
-<kbd><a href="https://leanpub.com/learncsharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238" width="100"/></a></kbd>
+<kbd><a href="https://www.apress.com/gp/book/9781484260371"><img border="1" src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="160"/></a></kbd>
+<kbd><a href="https://leanpub.com/powershell-to-csharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="150"/></a></kbd>
+<kbd><a href="https://leanpub.com/PowerShell-to-Python"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="150"/></a></kbd>
+<kbd><a href="https://leanpub.com/learncsharp"><img border="1" src="https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238" width="150"/></a></kbd>
 
 ## Blog Posts
 * <a href="https://ridicurious.com/2021/04/08/automated-azure-infrastructure-diagrams-with-powershell/">Automated Azure Infrastructure Diagrams with PowerShell</a>
