@@ -20,6 +20,7 @@
 [![Prateek's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumarSingh&theme=light&hide_border=true")](https://github.com/PrateekKumarSingh)
 <br/><br/>
 --->
+
 ## Books
 
 <kbd><a href="https://www.apress.com/gp/book/9781484260371"><img border="1" src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="220"/></a></kbd>
