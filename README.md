@@ -10,16 +10,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
-
+<!---
 [![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekKumarSingh)](https://github.com/PrateekKumarSingh)
-
 [![Prateek's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumarSingh&theme=light&hide_border=true")](https://github.com/PrateekKumarSingh)
-
 <br/><br/>
+--->
+
 
 ## My Books
 
-<a href="https://www.apress.com/gp/book/9781484260371"><img src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="220"/></a>  
-<a href="https://leanpub.com/powershell-to-csharp"><img src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="200"/></a>  
-<a href="https://leanpub.com/PowerShell-to-Python"><img src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="200"/></a>  
+<a href="https://www.apress.com/gp/book/9781484260371"><img src="https://i0.wp.com/ridicurious.com/wp-content/uploads/2021/01/wslbook.png?w=400&ssl=1" width="220"/></a>
+<a href="https://leanpub.com/powershell-to-csharp"><img src="https://d2sofvawe08yqg.cloudfront.net/powershell-to-csharp/hero?1616838848" width="200"/></a>
+<a href="https://leanpub.com/PowerShell-to-Python"><img src="https://d2sofvawe08yqg.cloudfront.net/PowerShell-to-Python/hero?1616768003" width="200"/></a>
 <a href="https://leanpub.com/learncsharp"><img src="https://d2sofvawe08yqg.cloudfront.net/learncsharp/hero?1616885238" width="200"/></a>
