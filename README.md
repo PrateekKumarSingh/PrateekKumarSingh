@@ -11,7 +11,7 @@
 * 1x Enginner who ♥ to automate cloud 🌩 infrastructure and is passionate about learning!
 * 4x Author, published some books on topic: <code>PowerShell</code>, <code>Python</code>, <code>C#</code>, <code>Windows Subsystem for Linux</code>
 * 50x Articles written on multiple platforms such as <a href="https://4sysops.com/archives/author/prateeksingh/">4sysops.com</a>, <a href="https://blog.ipswitch.com/author/prateek-singh">ipswitch.com</a>, and <a href="https://www.techtarget.com/contributor/Prateek-Singh">techtarget.com</a> 
-* 200x Blog posts written on my blog 👉 <a href="ridicurious.com">ridicurious.com</a> 
+* 200x Blog posts written on my blog 👉 <a href="https://ridicurious.com">ridicurious.com</a> 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=PrateekKumarSingh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
