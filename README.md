@@ -2,7 +2,7 @@
 # Heylo, I'm <a href="https://www.linkedin.com/in/prateeksingh1590/detail/" target="_blank">Prateek</a>! 👋
 <br />
 <a href= "https://www.linkedin.com/in/prateeksingh1590/detail/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/singhprateik"><img src="[https://img.icons8.com/dusk/48/000000/twitter.png](https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png)"/></a>
+<a href= "https://twitter.com/singhprateik"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"/></a>
 <a href= "https://www.youtube.com/c/ridiculouslycurious"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a> 
 <!--
 <img src="https://views.whatilearened.today/views/github/PrateekKumarSingh/views.svg"/>  <a href="https://github.com/PrateekKumarSingh/"><img src="https://img.shields.io/github/followers/PrateekKumarSingh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
